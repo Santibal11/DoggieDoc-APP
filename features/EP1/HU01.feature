@@ -27,4 +27,4 @@ Examples: INPUT
 
 Examples: OUTPUT
 | Mensaje                                    |
-| Menú principal de la aplicación            |
+| Menú principal de la aplicación         vfvdfgvfdgtdfgdetgerg   |
