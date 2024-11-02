@@ -16,7 +16,7 @@ When selecciona el botón “Mis datos” y selecciona el botón “Editar”,
 Then el usuario puede cambiar los datos que desee.
 
 Examples: INPUT
-| Datos del usuario                      |
+| Datos del usuario                           |
 | Nombre: Juan Pérez, Email: juan@example.com |
 
 Examples: OUTPUT
@@ -29,9 +29,9 @@ When selecciona el botón “Datos de mi can” y selecciona el botón “Editar
 Then el usuario puede cambiar los datos que desee de su can.
 
 Examples: INPUT
-| Datos del Can                          |
+| Datos del Can                              |
 | Nombre: Fido, Edad: 3 años, Raza: Labrador |
 
 Examples: OUTPUT
-| Mensaje                                |
+| Mensaje                                 |
 | Datos del can actualizados correctamente|
